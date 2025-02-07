@@ -2,7 +2,7 @@
 "name": "XUPERLISTS-1",
 "author": "By XUPERLISTS©️",
 "image": "https://i.postimg.cc/8cbFL3tn/Polish-20250203-205737424-removebg-preview.png",
-"url": "",
+"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u",
 "info": "2025",
 "telegram": "t.me",
 "groups": 
@@ -38,12 +38,7 @@
 "url": "https://pastebin.com/raw/fLchA7yv"
 },
 {
-"name": "TDTChannels",
-"image": "https://i.postimg.cc/65N3XZX5/Polish-20250204-215448627.png",
-"url": "https://www.tdtchannels.com/lists/tv.w3u"
-},
-{
-"name": "ElCano_deportes",
+"name": "ElCano_Deportes",
 "image": "https://i.postimg.cc/mkb0mm7n/images-1.jpg",
 "url": "https://actualsebastian.vercel.app/base.txt"
 },
@@ -53,14 +48,19 @@
 "url": "https://elcano-kappa-sage.vercel.app/PelisAcestream.txt"
 },
 {
+"name": "IPTV PUBLICA",
+"image": "https://i.postimg.cc/vZ6SLJpB/icono-circulo-amarillo-tv-648765-211.jpg",
+"url": "https://iptv-org.github.io/iptv/index.m3u"
+},
+{
 "name": "Acestream_Pluto_TDT_ElCano",
 "image": "https://i.postimg.cc/x8xFtnfk/icono-television-plateado-335552-999.jpg",
 "url": "https://elcano-kappa-sage.vercel.app/IptvElcano.m3u"
 },
 {
-"name": "IPTV PUBLICA",
-"image": "https://i.postimg.cc/vZ6SLJpB/icono-circulo-amarillo-tv-648765-211.jpg",
-"url": "https://iptv-org.github.io/iptv/index.m3u"
+"name": "TDTChannels",
+"image": "https://i.postimg.cc/65N3XZX5/Polish-20250204-215448627.png",
+"url": "https://www.tdtchannels.com/lists/tv.w3u"
 }
 ]
 }
