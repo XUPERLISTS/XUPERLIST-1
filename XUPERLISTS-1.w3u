@@ -7,6 +7,11 @@
 "telegram": "t.me",
 "groups": 
 [
+{ 
+"name": "PINCHA Y ACTUALIZA", 
+"image": "https://cdn-icons-png.flaticon.com/512/189/189686.png", 
+"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u" 
+},
 {
 "name": "Af1cionados",
 "image": "https://i.postimg.cc/CxsR9XgM/Rinnegan.png",
