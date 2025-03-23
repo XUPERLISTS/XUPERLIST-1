@@ -15,78 +15,78 @@ ESTAS LISTAS SON GRATIS",
 "url": "" 
 },
 { 
+"name": "POSIBLEMENTE NECESITES ACTIVAR UN VPN DENTRO DE LAS LISTAS", 
+"image": "https://i.postimg.cc/HsmrPtZc/logo3-23-15329.png", 
+"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u" 
+},
+{ 
 "name": "PINCHA Y ACTUALIZA", 
-"image": "https://cdn-icons-png.flaticon.com/512/189/189686.png", 
+"image": "https://i.postimg.cc/qMHKHrR7/logo3-23-15140.png", 
 "url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u" 
 },
 {
-"name": "Af1cionados",
-"image": "https://i.postimg.cc/CxsR9XgM/Rinnegan.png",
+"name": "AFICIONADOS",
+"image": "https://i.postimg.cc/jdzvfv9M/logo3-23-15433.png",
 "url": "https://af1c1onados.vercel.app/af1cionados.w3u"
 },
 {
-"name": "ChukyDeporte",
-"image": "https://i.postimg.cc/QxV8Qqht/Polish-20250204-213345321.png",
+"name": "CHUKY DEPORTE",
+"image": "https://i.postimg.cc/NjBDkmvB/logo3-23-15619.png",
 "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Deportes.w3u"
 },
 {
-"name": "Group Xuperlist Xports",
-"image": "https://i.postimg.cc/zBzWVRVB/logo3-20-214953.png",
+"name": "GROUP XUPERLIST XPORTS ",
+"image": "https://i.postimg.cc/KYY5dbYW/logo3-23-15710.png",
 "url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u"
 },
 {
 "name": "TINWORLD",
-"image": "https://i.postimg.cc/3Jf8J4JN/logo3-19-222957.png",
+"image": "https://i.postimg.cc/fLtfRvmj/logo3-23-1580.png",
 "url": "https://tinworld.vercel.app/Tinworld.w3u"
 },
 {
 "name": "NEW ERA",
-"image": "https://i.postimg.cc/bNygVxzg/fotoefectos-com-removebg-preview.png",
+"image": "https://i.postimg.cc/hjkbz70F/logo3-23-15847.png",
 "url": "https://nueva-era.netlify.app/NEW.ERA.w3u"
 },
 {
-"name": "ONLY ACES (By XUPERLIST-1)",
-"image": "https://i.postimg.cc/vBW4jydG/lv-0-20250209211945.gif",
+"name": "ONLY ACEX (By XUPERLIST-1)",
+"image": "https://i.postimg.cc/RCtTrXMv/logo3-23-15955.png",
 "url": "https://only-aces.netlify.app/ONLY.ACES.w3u"
 },
 {
-"name": "Group_ChukyHood",
-"image": "https://i.postimg.cc/TwLwRq1h/Polish-20250204-213914136.png",
+"name": "GROUP CHUKY HOOD",
+"image": "https://i.postimg.cc/VsXXZvR6/logo3-23-151043.png",
 "url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
 },
 {
-"name": "Megalista",
-"image": "https://i.postimg.cc/j5QdmJNW/L5RUMsy.png",
+"name": "MEGALISTA",
+"image": "https://i.postimg.cc/L4kZB79g/logo3-23-151119.png",
 "url": "https://megalista.vercel.app/megalista.w3u"
 },
 {
-"name": "ChukyCine",
-"image": "https://i.postimg.cc/qvwgQvWB/Polish-20250204-214247068.png",
+"name": "CHUKY CINE",
+"image": "https://i.postimg.cc/nhNztYVt/logo3-23-15125.png",
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
 },
 {
-"name": "ElCano_Deportes",
-"image": "https://i.postimg.cc/mkb0mm7n/images-1.jpg",
+"name": "ELCANO XPORTS",
+"image": "https://i.postimg.cc/Xv70mrd0/logo3-23-151251.png",
 "url": "https://actualsebastian.vercel.app/base.txt"
 },
 {
-"name": "Peliculas_Acestream_ElCano",
-"image": "https://i.postimg.cc/zBNMfx2f/icono-carrete-pelicula-24877-81727.jpg",
+"name": "ELCANO ACEX",
+"image": "https://i.postimg.cc/3JX5wXZT/logo3-23-151327.png",
 "url": "https://elcano-kappa-sage.vercel.app/PelisAcestream.txt"
 },
 {
-"name": "IPTV PUBLICA",
-"image": "https://i.postimg.cc/vZ6SLJpB/icono-circulo-amarillo-tv-648765-211.jpg",
+"name": "IPT PUBLICA",
+"image": "https://i.postimg.cc/CK692mwj/logo3-23-151410.png",
 "url": "https://iptv-org.github.io/iptv/index.m3u"
 },
 {
-"name": "Acestream_Pluto_TDT_ElCano",
-"image": "https://i.postimg.cc/x8xFtnfk/icono-television-plateado-335552-999.jpg",
-"url": "https://elcano-kappa-sage.vercel.app/IptvElcano.m3u"
-},
-{
-"name": "TDTChannels",
-"image": "https://i.postimg.cc/65N3XZX5/Polish-20250204-215448627.png",
+"name": "TDT CHANNELS",
+"image": "https://i.postimg.cc/7hScf40V/logo3-23-151447.png",
 "url": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8"
 }
 ]
