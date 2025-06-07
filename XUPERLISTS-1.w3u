@@ -50,6 +50,11 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/XUPERPLAY.w3u"
 },
 {
+"name": "EVENTS ACEX XUPERLIST",
+"image": "https://i.postimg.cc/jqgsnjqC/logo6-7-193731.png",
+"url": "https://raw.githubusercontent.com/Icastresana/lista1/main/eventos.m3u"
+},
+{
 "name": "NEW ERA",
 "image": "https://i.postimg.cc/hjkbz70F/logo3-23-15847.png",
 "url": "https://nueva-era.netlify.app/NEW.ERA.w3u"
@@ -75,12 +80,7 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
 },
 {
-"name": "ELCANO XPORTS + VPN",
-"image": "https://i.postimg.cc/Xv70mrd0/logo3-23-151251.png",
-"url": "https://actualsebastian.vercel.app/base.txt"
-},
-{
-"name": "ELCANO XPORTS 2",
+"name": "ELCANO XPORTS 2 (OFFLINE)",
 "image": "https://i.postimg.cc/JnHvF68f/logo3-25-03831.png",
 "url": "http://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt"
 },
