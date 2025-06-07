@@ -50,6 +50,11 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/XUPERPLAY.w3u"
 },
 {
+"name": "EVENTS DAILY XUPERLIST",
+"image": "https://i.postimg.cc/WpBYwXLB/logo6-7-205658.png",
+"url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLiveEvents.m3u8"
+},
+{
 "name": "EVENTS ACEX XUPERLIST",
 "image": "https://i.postimg.cc/jqgsnjqC/logo6-7-193731.png",
 "url": "https://raw.githubusercontent.com/Icastresana/lista1/main/eventos.m3u"
@@ -78,11 +83,6 @@ ESTAS LISTAS SON GRATIS",
 "name": "CHUKY CINE",
 "image": "https://i.postimg.cc/nhNztYVt/logo3-23-15125.png",
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
-},
-{
-"name": "ELCANO XPORTS 2 (OFFLINE)",
-"image": "https://i.postimg.cc/JnHvF68f/logo3-25-03831.png",
-"url": "http://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt"
 },
 {
 "name": "ELCANO ACEX",
