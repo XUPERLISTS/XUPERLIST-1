@@ -103,6 +103,16 @@ ESTAS LISTAS SON GRATIS",
 "name": "TDT CHANNELS",
 "image": "https://i.postimg.cc/7hScf40V/logo3-23-151447.png",
 "url": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8"
+},
+{
+"name": "PRUEBAS 1",
+"image": "",
+"url": "https://xuperlists-tv.netlify.app/"
+}
+{
+"name": "PRUEBAS 2",
+"image": "",
+"url": "https://xuperlist-play.vercel.app/"
 }
 ]
 }
