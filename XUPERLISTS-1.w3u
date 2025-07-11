@@ -105,17 +105,39 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8"
 },
 {
-"name": "PRUEBAS 1",
-"image": "",
-"url": "https://xuperlists-tv.netlify.app/",
-"embed": "true"
-},
-{
-"name": "PRUEBAS 2",
-"image": "",
-"url": "https://xuperlist-play.vercel.app/",
-"embed": "true"
+       "name": "PRUEBA 1",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+      
+                    {
+                    "name": "PRUEBA 1",
+                    "info":"",
+                    "image": "",
+                    "url": "https://xuperlists-tv.netlify.app/",
+                    "embed": "true"
+                           
+                   }
+                  ]
+                },
+       {
+       "name": "PRUEBA 2",
+       "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "PRUEBA 2",
+                      "info":"",
+                      "image": "https://i.postimg.cc/RhWVvmW8/3dgifmaker40114.gif",
+                      "url": "https://xuperlist-play.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
+                  }
+]
 }
 ]
 }
-
