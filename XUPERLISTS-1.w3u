@@ -138,10 +138,21 @@ ESTAS LISTAS SON GRATIS",
                     ]
                   },
 {
-"name": "MEGAXUPERLIST-(En Pruebas)",
-"image": "https://i.postimg.cc/sXKyR0vR/logo7-25-94641.png",
-"url": "https://megaxuperlist.netlify.app"
-}
+       "name": "MEGAXUPERLIST",
+       "image": "https://i.postimg.cc/sXKyR0vR/logo7-25-94641.png",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "MEGAXUPERLIST",
+                      "info":"",
+                      "image": "https://i.postimg.cc/sXKyR0vR/logo7-25-94641.png",
+                      "url": "https://megaxuperlist.netlify.app",
+                      "embed": "true"
+                      }
+                    ]
+                  }
 ]
 }
 ]
