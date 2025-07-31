@@ -152,6 +152,38 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "pruebas 1",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "pruebas 1",
+                      "info":"",
+                      "image": "",
+                      "url": "https://canacex.netlify.app/",
+                      "embed": "true"
+                      }
+                    ]
+                  },
+{
+       "name": "pruebas 2",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "Pruebas 2",
+                      "info":"",
+                      "image": "",
+                      "url": "https://xuper-ipt-tv.netlify.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 ]
 }
