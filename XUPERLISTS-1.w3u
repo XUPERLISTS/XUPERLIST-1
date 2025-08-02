@@ -154,32 +154,32 @@ ESTAS LISTAS SON GRATIS",
                     ]
                   },
 {
-       "name": "pruebas 1",
-       "image": "",
+       "name": "WORLD ACEXTREAM (pruebas)",
+       "image": "https://i.postimg.cc/Pxst6hBH/logo8-2-222156.png",
        "imageScale": "",
        "stations":
                   [
   
                       {
-                      "name": "pruebas 1",
+                      "name": "WORLD ACEXTREAM (pruebas)"",
                       "info":"",
-                      "image": "",
+                      "image": "https://i.postimg.cc/Pxst6hBH/logo8-2-222156.png",
                       "url": "https://canacex.netlify.app/",
                       "embed": "true"
                       }
                     ]
                   },
 {
-       "name": "pruebas 2",
-       "image": "",
+       "name": "XUPERLIST IPT TV (pruebas)",
+       "image": "https://i.postimg.cc/0QKq131f/logo8-2-222011.png",
        "imageScale": "",
        "stations":
                   [
   
                       {
-                      "name": "Pruebas 2",
+                      "name": "XUPERLIST IPT TV (pruebas)",
                       "info":"",
-                      "image": "",
+                      "image": "https://i.postimg.cc/0QKq131f/logo8-2-222011.png",
                       "url": "https://xuper-ipt-tv.netlify.app/",
                       "embed": "true"
                       }
