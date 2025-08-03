@@ -184,23 +184,8 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
-                  },
-{
-       "name": "(pruebas)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "(pruebas)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://generador-ipt-af1cionados.netlify.app/",
-                      "embed": "true"
-                      }
-                    ]
                   }
+
 ]
 }
 ]
