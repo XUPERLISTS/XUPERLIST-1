@@ -204,6 +204,20 @@ ESTAS LISTAS SON GRATIS",
                       "image": "",
                       "url": "https://xuperlist-ipt-player.netlify.app/index.html",
                       "embed": "true"
+                      },
+{
+       "name": "XUPERLIST M3U PLAY (pruebas)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERLIST M3U PLAY (pruebas)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://xuperlist-m3u-play.netlify.app/index.html",
+                      "embed": "true"
                       }
                     ]
                   }
