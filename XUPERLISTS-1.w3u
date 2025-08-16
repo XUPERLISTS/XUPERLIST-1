@@ -133,6 +133,22 @@ ESTAS LISTAS SON GRATIS",
                     ]
                   },
 {
+       "name": "XUPER CHANNELS",
+       "image": "https://i.postimg.cc/W4B5jsSF/logo8-16-1469.png",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPER CHANNELS",
+                      "info":"",
+                      "image": "https://i.postimg.cc/W4B5jsSF/logo8-16-1469.png",
+                      "url": "https://xuperchannels.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
+                  },
+{
        "name": "XUPERLIST TV",
        "image": "https://i.postimg.cc/4xSPYXMJ/logo7-13-143027.png",
        "imageScale": "",
@@ -229,24 +245,7 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
-                  },
-{
-       "name": "XUPER CHANNELS (pruebas)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPER CHANNELS (pruebas)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xuperchannels.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
                   }
-
 ]
 }
 ]
