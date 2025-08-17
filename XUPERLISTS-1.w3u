@@ -245,7 +245,28 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XUPERCOOL (pruebas)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERCOOL (pruebas)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://xuperdad.vercel.app/index.html",
+                      "embed": "true"
+                      }
+                    ]
                   }
+
+
+
+
+
 ]
 }
 ]
