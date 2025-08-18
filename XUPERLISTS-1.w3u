@@ -245,24 +245,8 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
-                  },
-{
-       "name": "XUPERCOOL (pruebas)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-        {
-  "name": "XUPERCOOL (pruebas)",
-  "info": "",
-  "image": "",
-  "url": "https://xuperplay.github.io/XUPERCOOL1/,
-  "embed": "true"
-}
+                  }
 
-       ]
-      }
 ]
 }
 ]
