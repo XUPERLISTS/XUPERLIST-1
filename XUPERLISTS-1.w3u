@@ -257,8 +257,7 @@ ESTAS LISTAS SON GRATIS",
   "name": "XUPERCOOL (pruebas)",
   "info": "",
   "image": "",
-  "url": "intent://xuperplay.github.io/XUPERCOOL1/#Intent;scheme=https;package=com.android.chrome;end",
-  "link_text": "Abrir en navegador externo",
+  "url": "intent://xuperplay.github.io/XUPERCOOL1/,
   "embed": "true"
 }
 
