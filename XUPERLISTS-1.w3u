@@ -259,7 +259,7 @@ ESTAS LISTAS SON GRATIS",
         "image": "",
         "url": "https://boton-xupercool.vercel.app/",
         "link_text": "Abrir en navegador externo",
-        "embed": ""
+        "embed": "true"
         }
        ]
       }
