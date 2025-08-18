@@ -110,14 +110,6 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/HYBRID-MOVIES/main/Hybrid-1.movies.w3u"
 },
 {
-  "name": "XUPERCOOL (pruebas)",
-  "info": "",
-  "image": "",
-  "url": "intent://xuperplay.github.io/XUPERCOOL1/#Intent;scheme=https;package=com.android.chrome;end",
-  "link_text": "Abrir en navegador externo",
-  "embed": ""
-},
-{
        "name": "WORLD ACEXTREAM",
        "image": "https://i.postimg.cc/Pxst6hBH/logo8-2-222156.png",
        "imageScale": "",
@@ -267,7 +259,7 @@ ESTAS LISTAS SON GRATIS",
   "image": "",
   "url": "intent://xuperplay.github.io/XUPERCOOL1/#Intent;scheme=https;package=com.android.chrome;end",
   "link_text": "Abrir en navegador externo",
-  "embed": ""
+  "embed": "true"
 }
 
        ]
