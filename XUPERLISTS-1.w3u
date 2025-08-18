@@ -254,13 +254,14 @@ ESTAS LISTAS SON GRATIS",
                   [
   
         {
-        "name": "XUPERCOOL (pruebas)",
-        "info": "",
-        "image": "",
-        "url": "https://boton-xupercool.vercel.app/index.html",
-        "link_text": "Abrir en navegador externo",
-        "embed": "true"
-        }
+  "name": "XUPERCOOL (pruebas)",
+  "info": "",
+  "image": "",
+  "url": "intent://xuperplay.github.io/XUPERCOOL1/#Intent;scheme=https;package=com.android.chrome;end",
+  "texto_enlace": "Abrir en navegador externo",
+  "embed": "true"
+}
+
        ]
       }
 ]
