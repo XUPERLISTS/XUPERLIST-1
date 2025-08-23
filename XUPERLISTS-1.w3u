@@ -257,8 +257,8 @@ ESTAS LISTAS SON GRATIS",
                       "name": "XUPERLIST M3U PLAY (pruebas)",
                       "info":"",
                       "image": "",
-                      "url": "https://raw.githubusercontent.com/XUPERPLAY/Xuperlist_Deportes/main/index.html",
-                      "embed": ""
+                      "url": "https://xuperlistdeportes.vercel.app/index.html",
+                      "embed": "true"
                       }
                     ]
                   }
