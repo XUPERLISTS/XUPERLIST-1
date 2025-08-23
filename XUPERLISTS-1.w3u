@@ -245,7 +245,26 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XUPERLIST M3U PLAY (pruebas)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERLIST M3U PLAY (pruebas)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://raw.githubusercontent.com/XUPERPLAY/Xuperlist_Deportes/main/index.html",
+                      "embed": "true"
+                      }
+                    ]
                   }
+
+
+
 
 ]
 }
