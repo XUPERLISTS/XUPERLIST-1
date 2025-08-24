@@ -277,6 +277,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XUPERLIST M3U PLAY (pruebas23)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERLIST M3U PLAY (pruebas23)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://deportes-2.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
