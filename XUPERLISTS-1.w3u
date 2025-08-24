@@ -259,6 +259,20 @@ ESTAS LISTAS SON GRATIS",
                       "image": "",
                       "url": "https://xuperlistdeportes.vercel.app/index.html",
                       "embed": "true"
+                      },
+{
+       "name": "XUPERLIST M3U PLAY (pruebas22)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERLIST M3U PLAY (pruebas22)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://depot-alpha.vercel.app/",
+                      "embed": "true"
                       }
                     ]
                   }
