@@ -293,6 +293,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XUPERLIST M3U PLAY (pruebas24)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERLIST M3U PLAY (pruebas24)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://xupertv-3.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
