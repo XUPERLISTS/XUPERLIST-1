@@ -332,17 +332,17 @@ ESTAS LISTAS SON GRATIS",
                     ]
                   },
 {
-       "name": "XUPERLIST M3U PLAY (pruebas25)",
+       "name": "XUPERLIST M3U PLAY (pruebas26)",
        "image": "",
        "imageScale": "",
        "stations":
                   [
   
                       {
-                      "name": "XUPERLIST M3U PLAY (pruebas25)",
+                      "name": "XUPERLIST M3U PLAY (pruebas26)",
                       "info":"",
                       "image": "",
-                      "url": "",
+                      "url": "https://en-vivo1.vercel.app/",
                       "embed": "true"
                       }
                     ]
