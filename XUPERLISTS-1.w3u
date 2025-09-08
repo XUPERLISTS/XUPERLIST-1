@@ -138,6 +138,22 @@ ESTAS LISTAS SON GRATIS",
                     ]
                   },
 {
+       "name": "XUPERFLIX",
+       "image": "https://i.postimg.cc/cHKnPN3D/logo9-8-215947.png",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XUPERFLIX",
+                      "info":"",
+                      "image": "https://i.postimg.cc/cHKnPN3D/logo9-8-215947.png",
+                      "url": "https://xuperflix.mooo.com/",
+                      "embed": "true"
+                      }
+                    ]
+                  },
+{
        "name": "XUPER CHANNELS",
        "image": "https://i.postimg.cc/W4B5jsSF/logo8-16-1469.png",
        "imageScale": "",
@@ -315,22 +331,7 @@ ESTAS LISTAS SON GRATIS",
                       }
                     ]
                   },
-{
-       "name": "XUPERLIST M3U PLAY (pruebas25)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas25)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xuperflix.mooo.com/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
+
 {
        "name": "XUPERLIST M3U PLAY (pruebas26)",
        "image": "",
