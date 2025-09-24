@@ -347,9 +347,23 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas27)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas27)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://raw.githubusercontent.com/XUPERPLAY/XTV_XUPERLISTAS-TV/main/index.html",
+                      "embed": "true"
+                      }
+                    ]
                   }
-
-
 
 
 ]
