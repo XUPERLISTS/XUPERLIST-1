@@ -115,6 +115,30 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/HYBRID-MOVIES/main/Hybrid-1.movies.w3u"
 },
 {
+       "name": "ACB-ENDESA",
+       "image": "https://i.postimg.cc/3rg6RTPG/logo10-5-143450.png",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "ACB-ENDESA",
+                      "info":"ACEXTREAM",
+                      "image": "https://i.postimg.cc/3rg6RTPG/logo10-5-143450.png",
+                      "url": "acestream://0f86119f233fd64fe85cc0b4a9059590d06d242a",
+                      "embed": "true"
+                      },
+                      {
+                      "name": "ACB-ENDESA",
+                      "info":"",
+                      "image": "https://i.postimg.cc/3rg6RTPG/logo10-5-143450.png",
+                      "url": "http://190.52.105.146:8000/play/a04v/index.m3u8",
+                      "embed": ""
+                      }
+                    ]
+                  },
+
+{
        "name": "WORLD ACEXTREAM",
        "image": "https://i.postimg.cc/Pxst6hBH/logo8-2-222156.png",
        "imageScale": "",
