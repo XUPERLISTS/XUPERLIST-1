@@ -407,6 +407,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas28)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas28)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://af1acexweb.netlify.app",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
