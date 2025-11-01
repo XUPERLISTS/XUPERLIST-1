@@ -35,9 +35,9 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/chukyvaliente/pack-wise-deportchuky/refs/heads/main/Deportes.w3u"
 },
 {
-"name": "GROUP XUPERLIST XPORTS ",
-"image": "https://i.postimg.cc/KYY5dbYW/logo3-23-15710.png",
-"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u"
+"name": "FROM W.W.W",
+"image": "https://i.postimg.cc/J0FxW8hW/logo10-31-152932.png",
+"url": "https://raw.githubusercontent.com/XUPERPLAY/FROM.W.W.W./main/FROM.w.w.w.w3u"
 },
 {
 "name": "TINWORLD",
@@ -53,11 +53,6 @@ ESTAS LISTAS SON GRATIS",
 "name": "IPTS FOR YOU",
 "image": "https://i.postimg.cc/vBXLqtcp/logo8-28-02839.png",
 "url": "https://raw.githubusercontent.com/XUPERLISTS/IPTS_FOR_YOU/main/IPTS.FOR.YOU.w3u"
-},
-{
-"name": "XUPERPLAY",
-"image": "https://i.postimg.cc/rz6mKr7L/logo4-21-12413.png",
-"url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/XUPERPLAY.w3u"
 },
 {
 "name": "EVENTS DAILY XUPERLIST",
@@ -85,6 +80,11 @@ ESTAS LISTAS SON GRATIS",
 "url": "https://raw.githubusercontent.com/tiriti1/tiri/main/GROUP%20CHUKYHOOD.w3u"
 },
 {
+"name": "XUPERPLAY",
+"image": "https://i.postimg.cc/rz6mKr7L/logo4-21-12413.png",
+"url": "https://raw.githubusercontent.com/XUPERLISTS/XUPERPLAY/refs/heads/main/XUPERPLAY.w3u"
+},
+{
 "name": "MEGALISTA",
 "image": "https://i.postimg.cc/L4kZB79g/logo3-23-151119.png",
 "url": "https://megalista.vercel.app/megalista.w3u"
@@ -93,6 +93,11 @@ ESTAS LISTAS SON GRATIS",
 "name": "CHUKY CINE",
 "image": "https://i.postimg.cc/nhNztYVt/logo3-23-15125.png",
 "url": "https://raw.githubusercontent.com/chukyvaliente/ChukHoodCine/refs/heads/main/ChukyHoodCines"
+},
+{
+"name": "GROUP XUPERLIST XPORTS ",
+"image": "https://i.postimg.cc/KYY5dbYW/logo3-23-15710.png",
+"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u"
 },
 {
 "name": "ELCANO ACEX",
