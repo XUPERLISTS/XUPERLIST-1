@@ -428,6 +428,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas29)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas29)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://af12-android-ios.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 ]
