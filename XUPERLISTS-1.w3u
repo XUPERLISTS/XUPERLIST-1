@@ -456,7 +456,7 @@ ESTAS LISTAS SON GRATIS",
                       "name": "XTV (pruebas30)",
                       "info":"",
                       "image": "",
-                      "url": "https://af1cionadostv-v2.vercel.app/",
+                      "url": "https://af1cionadostv-v2.vercel.app/api/playlist",
                       "embed": "true"
                       }
                     ]
