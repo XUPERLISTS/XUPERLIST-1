@@ -444,8 +444,23 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas30)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas30)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://af1cionadostv-v2.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
-
 ]
 }
 ]
