@@ -460,6 +460,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas31)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas31)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://af1cionados-tv-premium.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 ]
 }
