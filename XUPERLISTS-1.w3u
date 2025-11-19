@@ -476,23 +476,8 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
-                  },
-{
-       "name": "XTV (pruebas32)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas32)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://raw.githubusercontent.com/XUPERLISTS/Af1cionados-_Tv_Premium/main/index.html",
-                      "embed": "true"
-                      }
-                    ]
                   }
+
 
 ]
 }
