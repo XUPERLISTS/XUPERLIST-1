@@ -476,6 +476,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas32)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas32)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://af1webs.vercel.app/Premium_Tv.html",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
