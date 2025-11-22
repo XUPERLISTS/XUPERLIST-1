@@ -492,6 +492,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas33 + VPN)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas33 + VPN)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://xupercoolnew.vercel.app/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
