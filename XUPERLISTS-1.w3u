@@ -508,6 +508,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas34 + VPN)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas34 + VPN)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://af1acexserverx.pages.dev/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
