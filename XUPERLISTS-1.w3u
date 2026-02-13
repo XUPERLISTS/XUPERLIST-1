@@ -540,6 +540,22 @@ ESTAS LISTAS SON GRATIS",
                       "embed": "true"
                       }
                     ]
+                  },
+{
+       "name": "XTV (pruebas36 + VPN)",
+       "image": "",
+       "imageScale": "",
+       "stations":
+                  [
+  
+                      {
+                      "name": "XTV (pruebas36 + VPN)",
+                      "info":"",
+                      "image": "",
+                      "url": "https://group-chuky-mlpla.pages.dev/",
+                      "embed": "true"
+                      }
+                    ]
                   }
 
 
