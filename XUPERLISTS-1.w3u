@@ -2,7 +2,7 @@
 "name": "XUPERLISTS-1",
 "author": "By XUPERLISTS©️",
 "image": "https://i.postimg.cc/m2ChF1Hx/logo7-24-93747.png",
-"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u",
+"url": "https://xuperdeno.xuperlist-2-0.deno.net/",
 "info": "2025",
 "telegram": "t.me",
 "groups": 
@@ -22,7 +22,7 @@ ESTAS LISTAS SON GRATIS",
 { 
 "name": "SINCRONIZA SIEMPRE LA LISTA", 
 "image": "https://i.postimg.cc/qMHKHrR7/logo3-23-15140.png", 
-"url": "https://xuperlist-1.netlify.app/XUPERLISTS-1.w3u" 
+"url": "https://xuperdeno.xuperlist-2-0.deno.net/" 
 },
 {
 "name": "AFICIONADOS",
@@ -57,7 +57,7 @@ ESTAS LISTAS SON GRATIS",
 {
 "name": "EVENTS DAILY XUPERLIST",
 "image": "https://i.postimg.cc/WpBYwXLB/logo6-7-205658.png",
-"url": "https://raw.githubusercontent.com/Drewski2423/DrewLive/main/DaddyLiveEvents.m3u8"
+"url": ""
 },
 {
 "name": "EVENTS ACEX XUPERLIST",
@@ -67,12 +67,12 @@ ESTAS LISTAS SON GRATIS",
 {
 "name": "NEW ERA",
 "image": "https://i.postimg.cc/hjkbz70F/logo3-23-15847.png",
-"url": "https://nueva-era.netlify.app/NEW.ERA.w3u"
+"url": ""
 },
 {
 "name": "ONLY ACEX (By XUPERLIST-1)",
 "image": "https://i.postimg.cc/RCtTrXMv/logo3-23-15955.png",
-"url": "https://only-aces.netlify.app/ONLY.ACES.w3u"
+"url": ""
 },
 {
 "name": "GROUP CHUKY HOOD",
@@ -97,17 +97,12 @@ ESTAS LISTAS SON GRATIS",
 {
 "name": "GROUP XUPERLIST XPORTS ",
 "image": "https://i.postimg.cc/KYY5dbYW/logo3-23-15710.png",
-"url": "https://group-xuperlist-xports.netlify.app/00.XPORTS.w3u"
+"url": ""
 },
 {
-"name": "ELCANO ACEX",
+"name": "ELCANO ACEX+VPN",
 "image": "https://i.postimg.cc/3JX5wXZT/logo3-23-151327.png",
 "url": "https://elis-gray.vercel.app/PelisAcestream.txt"
-},
-{
-"name": "ELCANO ACEX 2",
-"image": "https://i.postimg.cc/TYTGyxfh/logo3-25-04718.png",
-"url": "https://proxy.zeronet.dev/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/peliculas.m3u"
 },
 {
 "name": "IPT PUBLICA",
@@ -174,14 +169,14 @@ ESTAS LISTAS SON GRATIS",
                       "name": "WORLD ACEXTREAM",
                       "info":"",
                       "image": "https://i.postimg.cc/Pxst6hBH/logo8-2-222156.png",
-                      "url": "https://canacex.netlify.app/",
+                      "url": "",
                       "embed": "true"
                       },
                       {
                       "name": "XPORTS ACEXTREAM",
                       "info":"",
                       "image": "https://i.postimg.cc/T2NwjPxf/logo8-14-102735.png",
-                      "url": "https://xportsacex.netlify.app/",
+                      "url": "",
                       "embed": "true"
                       }
                     ]
@@ -197,7 +192,7 @@ ESTAS LISTAS SON GRATIS",
                       "name": "XUPERFLIX",
                       "info":"",
                       "image": "https://i.postimg.cc/cHKnPN3D/logo9-8-215947.png",
-                      "url": "https://xuperflix.mooo.com/",
+                      "url": "",
                       "embed": "true"
                       }
                     ]
@@ -218,23 +213,7 @@ ESTAS LISTAS SON GRATIS",
                       }
                     ]
                   },
-{
-       "name": "XUPERLIST TV",
-       "image": "https://i.postimg.cc/4xSPYXMJ/logo7-13-143027.png",
-       "imageScale": "",
-       "stations":
-                  [
-      
-                    {
-                    "name": "XUPERLIST TV",
-                    "info":"",
-                    "image": "https://i.postimg.cc/4xSPYXMJ/logo7-13-143027.png",
-                    "url": "https://xuperlists-tv.netlify.app/",
-                    "embed": "true"
-                           
-                   }
-                  ]
-                },
+
        {
        "name": "XUPERLIST PLAY",
        "image": "https://i.postimg.cc/MKDq2FL0/logo7-13-143053.png",
@@ -247,312 +226,6 @@ ESTAS LISTAS SON GRATIS",
                       "info":"",
                       "image": "https://i.postimg.cc/MKDq2FL0/logo7-13-143053.png",
                       "url": "https://xuperlist-play.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "MEGAXUPERLIST (pruebas)",
-       "image": "https://i.postimg.cc/sXKyR0vR/logo7-25-94641.png",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "MEGAXUPERLIST (pruebas)",
-                      "info":"",
-                      "image": "https://i.postimg.cc/sXKyR0vR/logo7-25-94641.png",
-                      "url": "https://megaxuperlist.netlify.app",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-
-{
-       "name": "XUPERLIST IPT TV (pruebas)",
-       "image": "https://i.postimg.cc/0QKq131f/logo8-2-222011.png",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST IPT TV (pruebas)",
-                      "info":"",
-                      "image": "https://i.postimg.cc/0QKq131f/logo8-2-222011.png",
-                      "url": "https://xuper-ipt-tv.netlify.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XUPERLIST IPT PLAYER (pruebas)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST IPT PLAYER (pruebas)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xuperlist-ipt-player.netlify.app/index.html",
-                      "embed": "true"
-                      }
-                     ]
-                    },
-{
-       "name": "XUPERLIST M3U PLAY (pruebas)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xuperlist-m3u-play.netlify.app/index.html",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XUPERLIST M3U PLAY (pruebas)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xuperlistdeportes.vercel.app/index.html",
-                      "embed": "true"
-                      }
-]
-},
-{
-       "name": "XUPERLIST M3U PLAY (pruebas22)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas22)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://depot-alpha.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XUPERLIST M3U PLAY (pruebas23)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas23)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://deportes-2.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XUPERLIST M3U PLAY (pruebas24)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas25)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xupertv-3.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-
-{
-       "name": "XUPERLIST M3U PLAY (pruebas26)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XUPERLIST M3U PLAY (pruebas26)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://en-vivo1.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas27)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas27)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xtv-xuperlistas-tv.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas28)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas28)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://af-1-ios-andro.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas29)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas29)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://boton-redireccion-2.pages.dev/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas30)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas30)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://af1cionadostv.netlify.app/af1tv.html",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas31)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas31)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://af1webstvpre1.pages.dev/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas32)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas32)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://af1cestream.pages.dev/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas33 + VPN)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas33 + VPN)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xupercoolnew.vercel.app/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas34 + VPN)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas34 + VPN)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://af1acexserverx.pages.dev/",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas35 + VPN)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas35 + VPN)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://is.gd/acexmlpla",
-                      "embed": "true"
-                      }
-                    ]
-                  },
-{
-       "name": "XTV (pruebas36 + VPN)",
-       "image": "",
-       "imageScale": "",
-       "stations":
-                  [
-  
-                      {
-                      "name": "XTV (pruebas36 + VPN)",
-                      "info":"",
-                      "image": "",
-                      "url": "https://xuperxtreams.pages.dev/",
                       "embed": "true"
                       }
                     ]
